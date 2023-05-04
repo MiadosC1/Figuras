@@ -117,7 +117,11 @@ function draw() {
   for (let object of objects) {
     if (object instanceof Enemy && object.collidesWith(player)) {
       noLoop();
+      alert("Perdiste");
+      alert ("Vuelve a intentarlo");
+      location.reload();
+  }
     }
   }
-}
+
 
