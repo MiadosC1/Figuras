@@ -5,3 +5,9 @@
  # Controles
  Los controles son muy sencillos, solo podras moverte a dos direcciones, a la izquierda con flecha izquierda, y a la derecha con la flecha derecha, en caso de perder, solo le das aceptar al segundo mensaje de volver a intentar.
 
+# Diagrama
+
+# Referencias 
+
+[P5.js](https://p5js.org/es/)
+[Libro de introducción a P5.js](https://processingfoundation.press/product/introduccion-a-p5-js/)
