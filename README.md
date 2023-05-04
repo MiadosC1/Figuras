@@ -9,5 +9,5 @@
 
 # Referencias 
 
-[P5.js](https://p5js.org/es/)
-[Libro de introducción a P5.js](https://processingfoundation.press/product/introduccion-a-p5-js/)
+1. [P5.js](https://p5js.org/es/)
+2. [Libro de introducción a P5.js](https://processingfoundation.press/product/introduccion-a-p5-js/)
