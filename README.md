@@ -7,6 +7,8 @@
 
 # Diagrama
 
+[https://i.imgur.com/ndCTksj.png]
+
 # Referencias 
 
 1. [P5.js](https://p5js.org/es/)
