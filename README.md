@@ -7,7 +7,7 @@
 
 # Diagrama
 
-[https://i.imgur.com/ndCTksj.png]
+![Diagrama](https://i.imgur.com/ndCTksj.png)
 
 # Referencias 
 
